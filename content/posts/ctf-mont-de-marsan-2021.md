@@ -1,15 +1,15 @@
 +++
-title = "Getting Started with Hugo"
-description = "Petit write up de note ami anthony domingue le dingue."
+title = "Mars@Hack2 - CTF de l'armée de l'air et de l'espace"
+description = "Writeup des épreuves trouvées par notre équipe."
 type = ["posts","post"]
 tags = [
-    "google",
-    "missing",
+    "Mont de Marsan",
+    "Armée de l'air et de l'espace",
 ]
-date = "05-04-2021"
+date = "19/03/2021 15:04"
 categories = [
-    "OSINT",
-    "Google It",
+    "CTF",
+    "Writeup"
 ]
 series = ["WriteUp"]
 [ author ]

@@ -1,78 +1,91 @@
 baseurl      = "localhost"
 title        = "Les Pires Hat"
 languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
 theme        = "hello-friend-ng"
 paginate     = 10
 
 [params]
-  dateform        = "2 Jan 2006"
-  dateformShort   = "2 Jan"
-  dateformNum     = "01-02-2006"
-  dateformNumTime = "01-02-2006 15:04"
+dateform        = "2 Jan 2006"
+dateformShort   = "2 Janvier"
+dateformNum     = "02/01/2006"
+dateformNumTime = "02/01/2006 15:04"
 
-  # Subtitle for home
-  homeSubtitle = "On aura votre <strike>dra</strike> peau"
+# Subtitle for home
+homeSubtitle = "On aura votre <strike>dra</strike>peau"
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
 
-  # Enable sharing buttons, if you like
-  enableSharingButtons = true
+# Enable sharing buttons, if you like
+enableSharingButtons = true
 
-  # Metadata mostly used in document's head
-  description = "Club de hacking dédiés aux hackeurs qui souhaitent hacker"
-  keywords = "homepage, blog"
-  images = [""]
+# Metadata mostly used in document's head
+description = "Club de hacking dédiés aux hackeurs qui souhaitent hacker"
+keywords = "homepage, blog"
+images = [""]
 
-  # Colors for favicons
-  #
-  [params.favicon.color]
-    mask = "#1b1c1d"
-    msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+# Colors for favicons
+#
+[params.favicon.color]
+mask = "#1b1c1d"
+msapplication = "#1b1c1d"
+theme = "#1b1c1d"
 
 
 [taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+category = "blog"
+tag      = "tags"
+series   = "series"
 
 [languages]
-  [languages.en]
-    title = "Les Pires Hat"
-    subtitle = "On aura votre (dra)peau"
-    keywords = ""
-    copyright = 'Les Pires Hat'
-    readOtherPosts = "Lire un autre article"
+[languages.fr]
+title = "Les Pires Hat"
+subtitle = "On aura votre (dra)peau"
+keywords = ""
+copyright = 'Les Pires Hat'
+readOtherPosts = "Lire un autre article"
 
-    [languages.en.params.logo]
-      logoMark = ">"
-      logoText = "$ cd les pires hat"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+[languages.fr.params.logo]
+logoMark = ">"
+logoText = "$ cd les pires hat"
+logoHomeLink = "/"
+# or
+#
+# path = "/img/your-example-logo.svg"
+# alt = "Your example logo alt text"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+# And you can even create generic menu
+[menu]
+[[menu.main]]
+identifier = "blog"
+name       = "Blog"
+url        = "/posts"
+weight = 1
+[[menu.main]]
+identifier = "team"
+name       = "Equipe"
+url        = "membres"
+weight = 2
+[[menu.main]]
+identifier = "a-propos"
+name       = "A propos"
+url        = "about"
+weight = 3
 
-  # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/LesPiresHat"
+# Social icons
+[[params.social]]
+name = "twitter"
+url  = "https://twitter.com/LesPiresHat"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/pireshat/"
-    
-  [[params.social]]
-    name = "medium"
-    url  = "https://medium.com/@lespireshat"
+[[params.social]]
+name = "github"
+url  = "https://github.com/pireshat/"
 
-  [[params.social]]
-    name = "codechef"
-    url  = "https://ctftime.org/team/75893"
+[[params.social]]
+name = "medium"
+url  = "https://medium.com/@lespireshat"
+
+[[params.social]]
+name = "codechef"
+url  = "https://ctftime.org/team/75893"
