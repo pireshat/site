@@ -10,7 +10,7 @@
             {{ end }}
 
             <h1>{{ .Site.Title }}</h1>
-            {{- with .Site.Params.homeSubtitle }}
+            {{- with .Site.Params.homeSubtitle|safeHTML }}
                 <p>{{.}}</p>
             {{- end }}
 
