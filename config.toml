@@ -47,7 +47,7 @@ copyright = 'Les Pires Hat'
 readOtherPosts = "Lire un autre article"
 
 [languages.fr.params.logo]
-logoText = "guest@piresh.at $"
+logoText = "guest@piresh.at"
 logoHomeLink = "/"
 # or
 #
