@@ -2,7 +2,9 @@
 
 ## TODO
 
-- avoir une image par personne
-- définir meta description ensemble
-- avoir favicon
-- définir contenu de la page "A propos"
+- mettre lien medium sur bouton "Blog" header
+- enlever CD
+- mettre sur un bucket
+- faire un nom interactif
+- ajouter logo pirehat au site
+- changer couleur curseur en bleu du logo
