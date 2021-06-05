@@ -48,7 +48,7 @@ readOtherPosts = "Lire un autre article"
 
 [languages.fr.params.logo]
 logoMark = ""
-logoText = "guest@piresh.at $"
+logoText = "guest@piresh.at"
 logoHomeLink = "/"
 # or
 #
