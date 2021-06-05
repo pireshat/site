@@ -47,8 +47,8 @@ copyright = 'Les Pires Hat'
 readOtherPosts = "Lire un autre article"
 
 [languages.fr.params.logo]
-logoMark = ">"
-logoText = "$ guest@piresh.at"
+logoMark = ""
+logoText = "guest@piresh.at $"
 logoHomeLink = "/"
 # or
 #
@@ -60,7 +60,7 @@ logoHomeLink = "/"
 [[menu.main]]
 identifier = "blog"
 name       = "Blog"
-url        = "/posts"
+url        = "https://lespireshat.medium.com/"
 weight = 1
 [[menu.main]]
 identifier = "team"
