@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "piresh.at"
 title        = "Les Pires Hat"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
