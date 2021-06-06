@@ -68,10 +68,15 @@ name       = "Equipe"
 url        = "membres"
 weight = 2
 [[menu.main]]
+identifier = "ctfs"
+name       = "CTFs"
+url        = "ctfs"
+weight = 3
+[[menu.main]]
 identifier = "a-propos"
 name       = "A propos"
 url        = "about"
-weight = 3
+weight = 4
 
 # Social icons
 [[params.social]]
