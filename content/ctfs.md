@@ -6,7 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
-- CTF des écoles 2021 : 4/79
+- CTF des écoles 2021 : 3/79
 - ESAIP CTF : 5/20
 - NorzhCTF : 51/105
 - HeroCTF v3 : 2/600 (Top 1 on the student ranking)
