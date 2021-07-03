@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Wavegame Saison 3 : 4/39
 - CTF des écoles 2021 : 3/79
 - ESAIP CTF : 5/20
 - NorzhCTF : 51/105
