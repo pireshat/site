@@ -10,7 +10,7 @@ draft: false
 > Student @ Ynov / Security Engineer @ Veepee / Freelance / President @ ProTechTion / CTF player with "Les Pires Hat"
 > If you wanna talk about Security, cryptography, development, infrastructure, hardware, electronic, PCB, high voltage, CTF... contact me !
 
-> ![hessman]("https://i.ibb.co/ZGYBWqN/hessman.webp")
+> ![hessman](https://i.ibb.co/ZGYBWqN/hessman.webp)
 > ## hessman
 >
 > I like InfoSec, OSINT and cloud infrastructure problematic.
