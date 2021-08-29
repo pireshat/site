@@ -12,7 +12,8 @@ draft: false
 > ![Hackdaddy](https://i.ibb.co/smDSGgK/hackdaddy.png)
 > ## Hackdaddy
 >
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+> Student @ Ynov / Security Engineer @ Veepee / Freelance / President @ ProTechTion / CTF player with "Les Pires Hat"
+> If you wanna talk about Security, cryptography, development, infrastructure, hardware, electronic, PCB, high voltage, CTF... contact me !
 
 > ![boring](https://i.ibb.co/vDg6FmW/Sans-titre.png)
 > ## boring
