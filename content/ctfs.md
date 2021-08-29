@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Barbhack CTF 2021 : 11/24
 - CyberThreatForce CTF : 42/197
 - Wavegame Saison 3 : 4/39
 - CTF des écoles 2021 : 3/79
