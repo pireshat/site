@@ -1,7 +1,7 @@
 baseurl      = "http://localhost"
 title        = "Les Pires Hat"
-languageCode = "fr-fr"
-DefaultContentLanguage = "fr"
+languageCode = "en-en"
+DefaultContentLanguage = "en"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -21,7 +21,7 @@ disableReadOtherPosts = false
 enableSharingButtons = true
 
 # Metadata mostly used in document's head
-description = "Club de hacking dédiés aux hackeurs qui souhaitent hacker"
+description = "On aura votre (dra)peau"
 keywords = "homepage, blog"
 images = [""]
 
@@ -39,14 +39,14 @@ tag      = "tags"
 series   = "series"
 
 [languages]
-[languages.fr]
+[language.en]
 title = "Les Pires Hat"
 subtitle = "On aura votre (dra)peau"
 keywords = ""
 copyright = 'Les Pires Hat'
-readOtherPosts = "Lire un autre article"
+readOtherPosts = "More content"
 
-[languages.fr.params.logo]
+[language.en.params.logo]
 logoText = "guest@piresh.at"
 logoHomeLink = "/"
 # or
@@ -63,8 +63,8 @@ url        = "https://lespireshat.medium.com/"
 weight = 1
 [[menu.main]]
 identifier = "team"
-name       = "Equipe"
-url        = "membres"
+name       = "Team"
+url        = "team"
 weight = 2
 [[menu.main]]
 identifier = "ctfs"
@@ -72,8 +72,8 @@ name       = "CTFs"
 url        = "ctfs"
 weight = 3
 [[menu.main]]
-identifier = "a-propos"
-name       = "A propos"
+identifier = "about"
+name       = "About"
 url        = "about"
 weight = 4
 
