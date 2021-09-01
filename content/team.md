@@ -10,7 +10,7 @@ draft: false
 > Student @ Ynov / Security Engineer @ Veepee / Freelance / President @ ProTechTion / CTF player with "Les Pires Hat"
 > If you wanna talk about Security, cryptography, development, infrastructure, hardware, electronic, PCB, high voltage, CTF... contact me !
 
-> ![hessman]("https://i.ibb.co/ZGYBWqN/hessman.webp")
+> ![hessman](https://i.ibb.co/ZGYBWqN/hessman.webp)
 > ## hessman
 >
 > I like InfoSec, OSINT and cloud infrastructure problematic.
@@ -25,7 +25,7 @@ draft: false
 > 
 > [Personal Website](https://pierreceberio.com/) [Root Me](https://www.root-me.org/boring) [TryHackMe](https://tryhackme.com/p/boringthegod)
 
-> ![NorthBlue333]("https://i.ibb.co/7GNCKmw/north.webp")
+> ![NorthBlue333](https://i.ibb.co/7GNCKmw/north.webp)
 > ## NorthBlue333
 >
 > Student, interested in everything.
