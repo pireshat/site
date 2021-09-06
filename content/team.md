@@ -30,10 +30,15 @@ draft: false
 >
 > Student, interested in everything.
 
-> ![150k](https://i.ibb.co/f9TfKr0/150k.png)
-> ## 150k
+> ![P0wn3d](https://i.ibb.co/6FZgwxk/image.png)
+> ## P0wn3d
+> *Power belongs to those who take it*
 >
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+> 20 yo cybersec student at Bordeaux.
+> InfoSec's Lover. Passionate about Web, OSINT, Social Engineering and beers
+>
+> [Root Me](https://www.root-me.org/P0wn3d) [TryHackMe](https://tryhackme.com/p/P0wn3d)
+
 
 > ![idk](https://i.ibb.co/0t4JMGP/simon.png)
 > ## idk
