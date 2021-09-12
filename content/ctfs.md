@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- European Cyber Cup : 4/15
 - Barbhack CTF 2021 : 11/24
 - CyberThreatForce CTF : 42/197
 - Wavegame Saison 3 : 4/39
