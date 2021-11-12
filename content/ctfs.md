@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF OSINT UYBHYS : 7/44
 - Bambi CTF v6 : 24/60
 - Sthack 2021 : 12/22
 - European Cyber Cup : 4/15
