@@ -47,6 +47,12 @@ draft: false
 >
 > [Root Me](https://www.root-me.org/P0wn3d) [TryHackMe](https://tryhackme.com/p/P0wn3d)
 
+> ![Aether](https://i.ibb.co/dmcpSYs/wraith-cat.png)
+> ## Aether
+>
+> CTF Player | Apprenti Cyber @Adacis | Finaliste FCSC 2020
+> 
+> [Root-Me](https://www.root-me.org/Black-Aether)
 
 > ![idk](https://i.ibb.co/0t4JMGP/simon.png)
 > ## idk
