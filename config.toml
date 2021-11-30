@@ -46,13 +46,9 @@ keywords = ""
 copyright = 'Les Pires Hat'
 readOtherPosts = "More content"
 
-[language.en.params.logo]
-logoText = "guest@piresh.at"
-logoHomeLink = "/"
-# or
-#
-# path = "/img/your-example-logo.svg"
-# alt = "Your example logo alt text"
+[params.portrait]
+path = "https://i.ibb.co/qdFVw1n/logo.png"
+alt = "Les Pires Hat logo"
 
 # And you can even create generic menu
 [menu]
