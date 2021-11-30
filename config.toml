@@ -46,6 +46,10 @@ keywords = ""
 copyright = 'Les Pires Hat'
 readOtherPosts = "More content"
 
+[language.en.params.logo]
+logoText = "guest@piresh.at"
+logoHomeLink = "/"
+
 [params.portrait]
 path = "https://i.ibb.co/qdFVw1n/logo.png"
 alt = "Les Pires Hat logo"
