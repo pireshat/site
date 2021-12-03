@@ -5,6 +5,8 @@ DefaultContentLanguage = "en"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+disableKinds = ["RSS"]
+
 [params]
 dateform        = "2 Jan 2006"
 dateformShort   = "2 Janvier"
@@ -46,7 +48,7 @@ keywords = ""
 copyright = 'Les Pires Hat'
 readOtherPosts = "More content"
 
-[language.en.params.logo]
+[params.logo]
 logoText = "guest@piresh.at"
 logoHomeLink = "/"
 
@@ -93,3 +95,7 @@ url  = "https://medium.com/@lespireshat"
 [[params.social]]
 name = "codechef"
 url  = "https://ctftime.org/team/75893"
+
+[[params.social]]
+name = "linkedin"
+url  = "https://www.linkedin.com/company/les-pires-hat"
