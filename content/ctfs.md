@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Tournoi de Renseignement et d'Analyse de CentraleSupélec Édition 2021 : 25/94
 - CTF inter-écoles Orange Cyberdefense 11/2021 : 1/69
 - CTF OSINT UYBHYS : 7/44
 - Bambi CTF (A/D) v6 : 24/60
