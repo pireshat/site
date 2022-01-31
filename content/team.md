@@ -80,3 +80,8 @@ draft: false
 > ## Lucas
 >
 
+> ![Nible](https://i.ibb.co/kqW5Lk6/254972489-876796759700636-5822364087587353145-n-1.jpg)
+> ## Nible
+> Student. My best friends : neurones, stackoverflow and google  
+>  
+> Follow my biutyful dog's instagram [@sukiwhitegolden](https://www.instagram.com/sukiwhitegolden/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Saturn.svg/1920px-Saturn.svg.png" alt="drawing" style="width:15px;"/>
