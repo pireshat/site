@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF ENSEIRB-MATMECA de la Chaire Cyber Résilience : 2/14
 - Tournoi de Renseignement et d'Analyse de CentraleSupélec Édition 2021 : 25/94
 - CTF inter-écoles Orange Cyberdefense 11/2021 : 1/69
 - CTF OSINT UYBHYS : 7/44
