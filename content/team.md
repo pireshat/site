@@ -58,10 +58,6 @@ draft: false
 > ## idk
 >
 
-> ![Mhd_Root](https://i.ibb.co/nngbccw/mhd.png)
-> ## Mhd_Root
->
-
 > ![Stevend33](https://i.ibb.co/Bs2DHYh/steven.png)
 > ## StevenD33
 >
