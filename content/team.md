@@ -58,10 +58,6 @@ draft: false
 > ## idk
 >
 
-> ![Mhd_Root](https://i.ibb.co/nngbccw/mhd.png)
-> ## Mhd_Root
->
-
 > ![Stevend33](https://i.ibb.co/Bs2DHYh/steven.png)
 > ## StevenD33
 >
@@ -85,3 +81,7 @@ draft: false
 > Student. My best friends : neurones, stackoverflow and google  
 >  
 > Follow my biutyful dog's instagram [@sukiwhitegolden](https://www.instagram.com/sukiwhitegolden/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Saturn.svg/1920px-Saturn.svg.png" alt="drawing" style="width:15px;"/>
+
+> ![Gomonriou](https://ibb.co/whYTTJR)
+> ## Gomonriou
+>
