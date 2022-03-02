@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF OSINTgames : 1/50
 - CTF Capture The Talent : 1/52
 - CTF ENSEIRB-MATMECA de la Chaire Cyber Résilience : 2/14
 - Tournoi de Renseignement et d'Analyse de CentraleSupélec Édition 2021 : 25/94
