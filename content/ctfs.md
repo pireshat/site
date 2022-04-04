@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Hacky'Nov : 1/11
 - CTF OSINTgames : 1/121
 - CTF Capture The Talent : 1/52
 - CTF ENSEIRB-MATMECA de la Chaire Cyber Résilience : 2/14
