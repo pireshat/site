@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF THCon 2022 : 13/166
 - CTF Hacky'Nov : 1/11
 - CTF OSINTgames : 1/121
 - CTF Capture The Talent : 1/52
