@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Midnight Flag 2022 : 1/200
 - CTF THCon 2022 : 13/166
 - CTF Hacky'Nov : 1/11
 - CTF OSINTgames : 1/121
