@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Wavegame Saison 4 : 3/42
 - CTF Mars@Hack 2022 : 1/41
 - CTF Midnight Flag 2022 : 1/200
 - CTF THCon 2022 : 13/166
