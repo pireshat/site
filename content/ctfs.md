@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- HeroCTF v4 : 5/632
 - Sthack 2022 : 9/18
 - Wavegame Saison 4 : 3/42
 - CTF Mars@Hack 2022 : 1/41
