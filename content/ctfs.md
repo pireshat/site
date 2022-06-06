@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF ESAIP 2022 : 5/34
 - HeroCTF v4 : 5/632
 - Sthack 2022 : 9/18
 - Wavegame Saison 4 : 3/42
