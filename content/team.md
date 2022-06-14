@@ -7,8 +7,11 @@ draft: false
 > ![Hackdaddy](https://i.ibb.co/smDSGgK/hackdaddy.png)
 > ## Hackdaddy
 >
-> Student @ Ynov / Security Engineer @ Veepee / Freelance / President @ ProTechTion / CTF player with "Les Pires Hat"
-> If you wanna talk about Security, cryptography, development, infrastructure, hardware, electronic, PCB, high voltage, CTF... contact me !
+> Cyber Security Engineer at Veepee / Student at Ynov / President at ProTechTion / Co-founder at Les Pires Hat
+>
+>🚀
+>
+> [linkedin](https://www.linkedin.com/in/sellan/) [twitter](https://twitter.com/etienne_sellan) [website](https://etienne.sellan.fr)
 
 > ![hessman](https://i.ibb.co/ZGYBWqN/hessman.webp)
 > ## hessman
