@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Ynov Maroc & SecDojo : 1/9
 - European Cyber Cup 2022 : 4/18
 - CTF ESAIP 2022 : 5/34
 - HeroCTF v4 : 5/632
