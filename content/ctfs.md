@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Barbhack 2022 : 10/29
 - CTF Ynov Maroc & SecDojo : 1/9
 - European Cyber Cup 2022 : 4/18
 - CTF ESAIP 2022 : 5/34
