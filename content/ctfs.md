@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF INNN 2022 : 2/12
 - CTF Purple Pill : 1/13
 - CTF Barbhack 2022 : 10/29
 - CTF Ynov Maroc & SecDojo : 1/9
