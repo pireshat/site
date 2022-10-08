@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Hackvens 2022 : 7/18
 - CTF INNN 2022 : 2/12
 - CTF Purple Pill : 1/13
 - CTF Barbhack 2022 : 10/29
