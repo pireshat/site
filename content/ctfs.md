@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Orange Break the Bank : 5/122
 - CTF Hackvens 2022 : 7/18
 - CTF INNN 2022 : 2/12
 - CTF Purple Pill : 1/13
