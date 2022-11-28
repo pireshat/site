@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Hack-It-N 2022 : 1/5
 - CTF Orange Break the Bank : 5/122
 - CTF Hackvens 2022 : 7/18
 - CTF INNN 2022 : 2/12
