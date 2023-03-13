@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- DaVinci CTF 2023 : 10/289
 - HackTM CTF 2023 : 61/794 
 - Tournoi de Renseignement et d'Analyse de CentraleSupélec Édition 2022 : 24/94
 - CTF Hack-It-N 2022 : 1/5
