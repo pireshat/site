@@ -6,6 +6,8 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- HTB Cyber Apocalypse CTF 2023 : 146/6483
+- YCTF 2023 : 1/24
 - BreizhCTF 2023 : 14/118
 - DaVinci CTF 2023 : 10/289
 - HackTM CTF 2023 : 61/794 
