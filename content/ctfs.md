@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Mars@Hack 2022 : 2/48
 - HTB Cyber Apocalypse CTF 2023 : 146/6483
 - YCTF 2023 : 1/24
 - BreizhCTF 2023 : 14/118
