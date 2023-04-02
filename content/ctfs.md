@@ -6,6 +6,8 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Hacky'Nov 2023 Aix : 1/25
+- CTF "Une nuit pour hacker" Avignon : 1/27
 - CTF Mars@Hack 2022 : 2/48
 - HTB Cyber Apocalypse CTF 2023 : 146/6483
 - YCTF 2023 : 1/24
