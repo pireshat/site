@@ -6,6 +6,8 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Hack.lu CTF 2023 : 44/642
+- CTF Purple Pill 2023 : 5/11
 - CTF Ynov Intercampus : 1/18
 - Sthack 2023 : 5/29
 - CTF inter-campus Capgémini : 1/21
