@@ -1,7 +1,7 @@
 baseurl      = "http://localhost"
 title        = "Les Pires Hat"
 languageCode = "en-en"
-DefaultContentLanguage = "en"
+dataefaultContentLanguage = "en"
 theme        = "hello-friend-ng"
 paginate     = 10
 

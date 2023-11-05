@@ -1,7 +1,7 @@
 baseurl      = "https://piresh.at/"
 title        = "Les Pires Hat"
 languageCode = "en-en"
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 theme        = "hello-friend-ng"
 paginate     = 10
 
