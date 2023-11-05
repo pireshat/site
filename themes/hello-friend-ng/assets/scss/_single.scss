@@ -46,6 +46,7 @@
     margin: 40px -50px;
     width: $max-width;
     max-width: $max-width;
+    overflow: hidden;
     @media #{$media-size-tablet} {
       margin: 20px 0;
       width: 100%;
@@ -88,6 +89,17 @@
       vertical-align: -.125em;
       width: 1em;
       height: 1em;
+    }
+  }
+
+  &-audio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+
+    audio {
+      width: 90%;
     }
   }
 

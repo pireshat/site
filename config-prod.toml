@@ -1,106 +1,100 @@
 baseurl      = "https://piresh.at/"
 title        = "Les Pires Hat"
-languageCode = "en-en"
-defaultContentLanguage = "en"
+languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
-disableKinds = ["RSS"]
-
 [params]
-dateform        = "2 Jan 2006"
-dateformShort   = "2 Janvier"
-dateformNum     = "02/01/2006"
-dateformNumTime = "02/01/2006 15:04"
+  dateform        = "2 Jan 2006"
+  dateformShort   = "2 Janvier"
+  dateformNum     = "02/01/2006"
+  dateformNumTime = "02/01/2006 15:04"
 
-# Subtitle for home
-homeSubtitle = "On aura votre <strike>dra</strike>peau"
+  # Subtitle for home
+  homeSubtitle = "On aura votre <strike>dra</strike>peau"
 
-# Set disableReadOtherPosts to true in order to hide the links to other posts.
-disableReadOtherPosts = false
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
 
-# Enable sharing buttons, if you like
-enableSharingButtons = true
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
 
-# Metadata mostly used in document's head
-description = "On aura votre (dra)peau"
-keywords = "homepage, blog"
-images = [""]
+  # Metadata mostly used in document's head
+  description = "On aura votre (dra)peau"
+  keywords = "homepage, blog"
+  images = [""]
+  # Colors for favicons
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+  [params.portrait]
+    path = "https://i.ibb.co/qdFVw1n/logo.png"
+    alt = "Les Pires Hat logo"
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/LesPiresHat"
 
-# Colors for favicons
-#
-[params.favicon.color]
-mask = "#1b1c1d"
-msapplication = "#1b1c1d"
-theme = "#1b1c1d"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/pireshat/"
+
+  [[params.social]]
+    name = "medium"
+    url  = "https://medium.com/@lespireshat"
+
+  [[params.social]]
+    name = "codechef"
+    url  = "https://ctftime.org/team/75893"
 
 
 [taxonomies]
-category = "blog"
-tag      = "tags"
-series   = "series"
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
-[language.en]
-title = "Les Pires Hat"
-subtitle = "On aura votre (dra)peau"
-keywords = ""
-copyright = 'Les Pires Hat'
-readOtherPosts = "More content"
+  [languages.en]
+    title = "Les Pires Hat"
+    keywords = ""
+    copyright = "Les Pires Hat"
+    readOtherPosts = "More content"
 
-[params.logo]
-logoText = "guest@piresh.at"
-logoHomeLink = "/"
+  [languages.en.params]
+    subtitle = "On aura votre (dra)peau"
 
-[params.portrait]
-path = "https://i.ibb.co/qdFVw1n/logo.png"
-alt = "Les Pires Hat logo"
+    [languages.en.params.logo]
+      logoText = "guest@piresh.at"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
 
+  # And you can even create generic menu
 # And you can even create generic menu
 [menu]
-[[menu.main]]
-identifier = "blog"
-name       = "Blog"
-url        = "https://lespireshat.medium.com/"
-weight = 1
-[[menu.main]]
-identifier = "team"
-name       = "Team"
-url        = "team"
-weight = 2
-[[menu.main]]
-identifier = "ctfs"
-name       = "CTFs"
-url        = "ctfs"
-weight = 3
-[[menu.main]]
-identifier = "sponsors"
-name       = "Sponsors"
-url        = "sponsors"
-weight = 4
-[[menu.main]]
-identifier = "about"
-name       = "About"
-url        = "about"
-weight = 5
-
-# Social icons
-[[params.social]]
-name = "twitter"
-url  = "https://twitter.com/LesPiresHat"
-
-[[params.social]]
-name = "github"
-url  = "https://github.com/pireshat/"
-
-[[params.social]]
-name = "medium"
-url  = "https://medium.com/@lespireshat"
-
-[[params.social]]
-name = "ctftime"
-url  = "https://ctftime.org/team/75893"
-
-[[params.social]]
-name = "linkedin"
-url  = "https://www.linkedin.com/company/les-pires-hat"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "https://lespireshat.medium.com/"
+    weight = 1
+  [[menu.main]]
+    identifier = "team"
+    name       = "Team"
+    url        = "team"
+    weight = 2
+  [[menu.main]]
+    identifier = "ctfs"
+    name       = "CTFs"
+    url        = "ctfs"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"
+    weight = 4
