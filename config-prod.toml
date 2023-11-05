@@ -41,7 +41,7 @@ tag      = "tags"
 series   = "series"
 
 [languages]
-[language.en]
+[languages.en]
 title = "Les Pires Hat"
 subtitle = "On aura votre (dra)peau"
 keywords = ""
