@@ -57,9 +57,6 @@ draft: false
 > 
 > [Root-Me](https://www.root-me.org/Black-Aether)
 
-> ![idk](https://i.ibb.co/0t4JMGP/simon.png)
-> ## idk
->
 
 > ![Stevend33](https://i.ibb.co/Bs2DHYh/steven.png)
 > ## StevenD33
@@ -74,10 +71,6 @@ draft: false
 > ## Tluabiht
 >
 
-
-> ![Lucas](https://i.ibb.co/8PPQ00T/lucas.png)
-> ## Lucas
->
 
 > ![Nible](https://i.ibb.co/kqW5Lk6/254972489-876796759700636-5822364087587353145-n-1.jpg)
 > ## Nible
