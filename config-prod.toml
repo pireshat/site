@@ -47,7 +47,7 @@ paginate     = 10
     name = "medium"
     url  = "https://medium.com/@lespireshat"
 
-  [[params.linkedin]]
+  [[params.social]]
     name = "linkedin"
     url  = "https://fr.linkedin.com/company/les-pires-hat"
 
