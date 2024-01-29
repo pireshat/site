@@ -7,9 +7,9 @@ draft: false
 > ![Hackdaddy](https://i.ibb.co/smDSGgK/hackdaddy.png)
 > ## Hackdaddy
 >
-> Cyber Security Engineer at Veepee / Student at Ynov / President at ProTechTion / Co-founder at Les Pires Hat
->
->🚀
+> Cyber Security player
+> *hardware & crypto*
+> 🚀 
 >
 > [linkedin](https://www.linkedin.com/in/sellan/) [twitter](https://twitter.com/etienne_sellan) [website](https://etienne.sellan.fr)
 
