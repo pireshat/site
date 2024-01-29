@@ -26,7 +26,7 @@ draft: false
 >
 > 23yo, InfoSec Enthusiast, CTF player, passionate about OSINT & Social Engineering.
 > 
-> [Personal Website](https://pierreceberio.com/) [Linkedin](https://www.linkedin.com/in/pierre-ceberio/) [Root Me](https://www.root-me.org/boring) [TryHackMe](https://tryhackme.com/p/boringthegod)
+> [Personal Website](https://pierreceberio.com/) [Linkedin](https://www.linkedin.com/in/pierre-ceberio/)
 
 > ![NorthBlue333](https://i.ibb.co/7GNCKmw/north.webp)
 > ## NorthBlue333
@@ -41,7 +41,7 @@ draft: false
 > 
 > [Linkedin](https://www.linkedin.com/in/adrien-vaccaro/)
 
-> ![P0wn3d](https://i.ibb.co/6FZgwxk/image.png)
+> ![P0wn3d](https://i.ibb.co/kS2PWtb/image.png)
 > ## P0wn3d / Ademon
 > *Power belongs to those who take it*
 >
@@ -77,7 +77,7 @@ draft: false
 >  
 > Follow my biutyful dog's instagram [@sukiwhitegolden](https://www.instagram.com/sukiwhitegolden/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Saturn.svg/1920px-Saturn.svg.png" alt="drawing" style="width:15px;"/>
 
-> ![Gomonriou](https://i.ibb.co/CKWqqJz/70856318.png)
+> ![Gomonriou](https://i.ibb.co/Hgs2nhv/70856318.png)
 > ## Gomonriou
 >
 
@@ -85,27 +85,27 @@ draft: false
 > ## Agrorec
 >
 
-> ![Gamray](https://cdn.discordapp.com/avatars/330791198254039042/e6d20a159bad95ffff21f413e65df16f?size=1024)
+> ![Gamray](https://i.ibb.co/DQM36yf/e6d20a159bad95ffff21f413e65df16f.png)
 > ## Gamray
 >
 
-> ![HyouKa](https://cdn.discordapp.com/avatars/256059456461340672/bea54b7e8713c35315706d3b915ed98c?size=1024)
+> ![HyouKa](https://i.ibb.co/ggHzYyq/bea54b7e8713c35315706d3b915ed98c.png)
 > ## HyouKa
 >
 
-> ![Udo29](https://cdn.discordapp.com/avatars/228942724345233408/95d2ebf7e4f55a0e0b2d68e2622c164e?size=1024)
+> ![Udo29](https://i.ibb.co/bzYQvpf/95d2ebf7e4f55a0e0b2d68e2622c164e.png)
 > ## Udo29
 >
 
-> ![22sh](https://cdn.discordapp.com/avatars/250956808825470976/8418f1be835b9324ddba4c8067ef17f7?size=1024)
+> ![22sh](https://i.ibb.co/3RFktpc/8418f1be835b9324ddba4c8067ef17f7.png)
 > ## 22sh
 >
 
-> ![Ixod3](https://cdn.discordapp.com/avatars/314262267220983809/ec8ddc5e60380ce34cf6b7ba744bf710?size=1024)
+> ![Ixod3](https://i.ibb.co/1z1k1Zj/ec8ddc5e60380ce34cf6b7ba744bf710.png)
 > ## Ixod3
 >
 
-> ![Smic](https://cdn.discordapp.com/avatars/369408689507008512/48b44f145765db76d2e71b9c761342cf?size=1024)
+> ![Smic](https://i.ibb.co/mScwJwm/48b44f145765db76d2e71b9c761342cf.png)
 > ## Smic
 >
 
