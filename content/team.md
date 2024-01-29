@@ -24,7 +24,7 @@ draft: false
 > ## boring
 > *OSINT the planet*
 >
-> 20yo, InfoSec Enthusiast, CTF player, passionate about OSINT & Social Engineering.
+> 23yo, InfoSec Enthusiast, CTF player, passionate about OSINT & Social Engineering.
 > 
 > [Personal Website](https://pierreceberio.com/) [Linkedin](https://www.linkedin.com/in/pierre-ceberio/) [Root Me](https://www.root-me.org/boring) [TryHackMe](https://tryhackme.com/p/boringthegod)
 
@@ -42,7 +42,7 @@ draft: false
 > [Linkedin](https://www.linkedin.com/in/adrien-vaccaro/)
 
 > ![P0wn3d](https://i.ibb.co/6FZgwxk/image.png)
-> ## P0wn3d
+> ## P0wn3d / Ademon
 > *Power belongs to those who take it*
 >
 > 20 yo cybersec student at Bordeaux.
@@ -56,10 +56,6 @@ draft: false
 > CTF Player | Apprenti Cyber @Adacis | Finaliste FCSC 2020
 > 
 > [Root-Me](https://www.root-me.org/Black-Aether)
-
-> ![idk](https://i.ibb.co/0t4JMGP/simon.png)
-> ## idk
->
 
 > ![Stevend33](https://i.ibb.co/Bs2DHYh/steven.png)
 > ## StevenD33
@@ -75,10 +71,6 @@ draft: false
 >
 
 
-> ![Lucas](https://i.ibb.co/8PPQ00T/lucas.png)
-> ## Lucas
->
-
 > ![Nible](https://i.ibb.co/kqW5Lk6/254972489-876796759700636-5822364087587353145-n-1.jpg)
 > ## Nible
 > Student. My best friends : neurones, stackoverflow and google  
@@ -87,4 +79,36 @@ draft: false
 
 > ![Gomonriou](https://i.ibb.co/CKWqqJz/70856318.png)
 > ## Gomonriou
+>
+
+> ![Agrorec](https://cdn.discordapp.com/avatars/140143797962014720/332579a86883dd68c48ffe4f2fcd979e?size=1024)
+> ## Agrorec
+>
+
+> ![Gamray](https://cdn.discordapp.com/avatars/330791198254039042/e6d20a159bad95ffff21f413e65df16f?size=1024)
+> ## Gamray
+>
+
+> ![HyouKa](https://cdn.discordapp.com/avatars/256059456461340672/bea54b7e8713c35315706d3b915ed98c?size=1024)
+> ## HyouKa
+>
+
+> ![Udo29](https://cdn.discordapp.com/avatars/228942724345233408/95d2ebf7e4f55a0e0b2d68e2622c164e?size=1024)
+> ## Udo29
+>
+
+> ![22sh](https://cdn.discordapp.com/avatars/250956808825470976/8418f1be835b9324ddba4c8067ef17f7?size=1024)
+> ## 22sh
+>
+
+> ![Ixod3](https://cdn.discordapp.com/avatars/314262267220983809/ec8ddc5e60380ce34cf6b7ba744bf710?size=1024)
+> ## Ixod3
+>
+
+> ![Smic](https://cdn.discordapp.com/avatars/369408689507008512/48b44f145765db76d2e71b9c761342cf?size=1024)
+> ## Smic
+>
+
+> ![TomFox](https://cdn.discordapp.com/avatars/277825772922601473/a_1aefcf78e414f5baceb995134ce5ce09?size=1024)
+> ## TomFox
 >
