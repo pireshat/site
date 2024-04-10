@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Mars@Hack 2024 : 1/38
 - Hack.lu CTF 2023 : 44/642
 - CTF Purple Pill 2023 : 5/11
 - CTF Ynov Intercampus : 1/18
@@ -14,7 +15,7 @@ List of CTFs in which we participated :
 - European Cyber Cup 2023 : 11/25
 - CTF Hacky'Nov 2023 Aix : 1/25
 - CTF "Une nuit pour hacker" Avignon : 1/27
-- CTF Mars@Hack 2022 : 2/48
+- CTF Mars@Hack 2023 : 2/48
 - HTB Cyber Apocalypse CTF 2023 : 146/6483
 - YCTF 2023 : 1/24
 - BreizhCTF 2023 : 14/118
