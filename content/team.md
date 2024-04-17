@@ -77,7 +77,7 @@ draft: false
 >  
 > Follow my biutyful dog's instagram [@sukiwhitegolden](https://www.instagram.com/sukiwhitegolden/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Saturn.svg/1920px-Saturn.svg.png" alt="drawing" style="width:15px;"/>
 
-> ![Gomonriou](https://i.ibb.co/Hgs2nhv/70856318.png)
+> ![Gomonriou](https://i.ibb.co/vxmTfQY/Kitsune-Logo.png)
 > ## Gomonriou
 >
 
