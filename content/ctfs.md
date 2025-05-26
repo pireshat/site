@@ -6,6 +6,8 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Sthack 2025 : 2/33
+- Winner of Le Hack 2024 Black Badge Challenge
 - CTF Mars@Hack 2024 : 1/38
 - Hack.lu CTF 2023 : 44/642
 - CTF Purple Pill 2023 : 5/11
