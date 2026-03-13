@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- CTF Mars@Hack 2026 : 2/64
 - Le Hack 2025 : 4/108
 - Sthack 2025 : 2/33
 - Winner of Le Hack 2024 Black Badge Challenge
